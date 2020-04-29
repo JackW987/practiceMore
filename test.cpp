@@ -4,11 +4,11 @@ struct Book{
 	char author[40];
 	struct Book *next;
 };
-void addBook(struct Book **library){
-	
+void addBook(struct Book *library){
+	library={"FuckintToday","lll",NULL}; 
 }
 int main(void){
 	struct Book *library=NULL;
-	addBook(&library);
+	addBook(library);
 	return 0;
 }
