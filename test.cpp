@@ -1,5 +1,11 @@
 #include<stdio.h>
-int main(){
-	printf("%d",9/10);
-	return 0;
+#include<string.h>
+int main() {
+	char a[10];
+
+	scanf("%s",a);
+	memset(a,'0',sizeof(a));
+	printf("%s",a);
+	scanf("%s",a);
+	printf("%d",sizeof(a));
 }
