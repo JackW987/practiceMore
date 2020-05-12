@@ -1,10 +1,7 @@
 #include<stdio.h>
 int main(){
-	int a;
-	char b[100];
-	scanf("%d",&a);
-	scanf("%s",b);
-	printf("%d\n",a);
-	printf("%s\n",b);
+	int a[10]={0};
+	a[3]+1;
+	printf("%d",a[3]);
 	return 0;
-}
+} 
