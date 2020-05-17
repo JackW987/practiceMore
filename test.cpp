@@ -1,23 +1,33 @@
 #include <stdio.h>
 int main(){
- int L,M,i,a[100000];
- scanf("%d %d",&L,&M);
- for(i=0;i<=L;i++){
-  a[i]=1;
+ int a[10];
+ int n,i,min=0,max=0;
+ scanf("%d",&n);
+ for(i=0;i<n;i++){
+  	scanf("%d ",&a[i]);
  }
- int c,b;
- for(i=0;i<M;i++){
-  scanf("%d %d",&b,&c);
- }
- for(i=b;i<=c;i++){
-  a[i]=0;
- }
- int sum=0;
- for(i=0;i<=L;i++){
-  if(a[i]==1){
-   sum++;
+ 
+ for(i=0;i<n;i++){
+  if(a[i]<a[min]){
+   min=i;
   }
  }
- printf("%d",sum);
+ int temp;
+ temp=a[0];
+ a[0]=a[min];
+ a[min]=temp;
+ 
+ for(i=0;i<n;i++){
+  if(a[i]>a[max]){
+   max=i;
+  }
+ }
+ temp=a[n-1];
+ a[n-1]=a[max];
+ a[max]=temp;
+ 
+ for(i=0;i<n;i++){
+  printf("%d ",a[i]); 
+ }
  return 0;
-}
+} 

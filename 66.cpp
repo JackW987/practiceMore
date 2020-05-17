@@ -10,9 +10,9 @@ int main(){
 				printf("1/%d\n",b/a);
 			} 
 			else{
-				for(int i=0;i<a;i++){
+				for(int i=1;i<=a;i++){
 					if(b%i==0 && a%i==0){
-						a/=i;
+						a/=i; 
 						b/=i;
 					}
 				}
