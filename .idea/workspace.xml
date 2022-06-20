@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/101.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/101.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/107.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/107.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/109.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/109.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/110.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/111.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/112.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/112.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/113.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/113.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/114-字符逆序.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/114.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/114.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/115.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/115.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/118.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/118.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/119.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/119.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/120.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/125.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/125.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/135.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/135.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/136.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/136.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-more.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/30.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/612.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/612.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/63题简单思路.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/64.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/65-notAC.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/65-notAC.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/65.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/65.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/66.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/66.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/68.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/68.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/69.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/69.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/70.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/71.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/71.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/72.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/72.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/73.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/73.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/74.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/74.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/75.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/75.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/76.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/76.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/77.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/77.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/78.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/78.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/79.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/79.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-g.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80-g.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/80.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/81.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/81.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/82.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/82.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/83-test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/83-test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/83.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/84-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/84.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/85.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/85.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/86.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/86.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/87.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/87.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/88-test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/88.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/88.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/89.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/89.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/90.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/91.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/91.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/92.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/92.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/93.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/93.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/95.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/95.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/96.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/96.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fushi-6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p42.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p42.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p43.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p43.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p45.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p45.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p47.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p47.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p48.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p48.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p49.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p49.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p50.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p50.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p51.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p51.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p52.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p52.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p53.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p53.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p54.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p54.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p55.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p55.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p56.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p56.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p57.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p57.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p58.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p58.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p59.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p59.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p63.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p63.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/p9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-blzs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-dcnx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-dctj.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-gbsgys.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-ggs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-hhss.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-jzt.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-plt.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-qms.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-scs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-tq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-tz.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-xzf.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-ysfh.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-zch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-zx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-zys.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/未命名4.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/software/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\software\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ap4vvf0sEKekr9hD8J19MJli0b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="无重复字符的最长子串.Solution" />
+      <module name="practiceMore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="无重复字符的最长子串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="" />
+      <created>1655693430239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655693430239</updated>
+      <workItem from="1655693432954" duration="3871000" />
+      <workItem from="1655725600183" duration="215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="char_s" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
