@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="&quot;LRU cache simulation&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/LRU缓存/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/LRU缓存/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/LRU缓存/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/LRU缓存/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiceMore/LRU缓存/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiceMore/LRU缓存/Run.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +104,8 @@
       <workItem from="1655725600183" duration="215000" />
       <workItem from="1655727198576" duration="8000" />
       <workItem from="1655779958500" duration="4983000" />
+      <workItem from="1655807272574" duration="1584000" />
+      <workItem from="1655870540342" duration="224000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;LRU cache simulation&quot;">
       <created>1655780658261</created>
