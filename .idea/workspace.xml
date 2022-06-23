@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="&quot;LRU cache simulation&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceMore/LRU缓存/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiceMore/LRU缓存/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceMore/LRU缓存/OuterClass$InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceMore/LRU缓存/OuterClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceMore/LRU缓存/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiceMore/LRU缓存/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/三数之和/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/三数之和/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/三数之和/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/三数之和/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practiceMore/三数之和/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiceMore/三数之和/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunManager" selected="Application.Run (1)">
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -123,6 +122,9 @@
       <workItem from="1655870540342" duration="224000" />
       <workItem from="1655871132414" duration="1081000" />
       <workItem from="1655896681668" duration="2280000" />
+      <workItem from="1655950691094" duration="1159000" />
+      <workItem from="1655951870872" duration="560000" />
+      <workItem from="1655957919332" duration="1952000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;LRU cache simulation&quot;">
       <created>1655780658261</created>
@@ -151,13 +153,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;LRU cache simulation&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;LRU cache simulation&quot;" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="char_s" />
-        <watch expression="results.get(0)" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

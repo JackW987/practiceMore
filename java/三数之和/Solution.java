@@ -1,35 +1,50 @@
 package 三数之和;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> results = new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            for(int j=i+1;j<nums.length;j++){
-                for(int k=j+1;k<nums.length;k++){
-                    if((nums[i]+nums[j]+nums[k])==0){
-                        List<Integer> mid_resluts = new ArrayList<>();
-                        mid_resluts.add(nums[i]);
-                        mid_resluts.add(nums[j]);
-                        mid_resluts.add(nums[k]);
-                        results.add(mid_resluts);
+        // 当数组为0或者长度小于2都return
+        if(nums==null || nums.length<=2){
+            return results;
+        }
+        // 先对数组进行排序
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length-2;i++){
+            // 排序后第一个i应该是最小值，如果i > 0 跳过循环
+            if(nums[i]>0){
+                continue;
+            }
+            // 第一个值去重
+            if(i > 0 && nums[i]==nums[i-1]){
+                continue;
+            }
+            // 定义目标
+            int target = -nums[i];
+            int left = i+1;
+            int right = nums.length - 1;
+            // 双指针移动
+            while(left < right){
+                if(nums[left]+nums[right]==target){
+                    results.add(new ArrayList<>(Arrays.asList(nums[i],nums[left],nums[right])));
+                    left++;
+                    right--;
+                    // 移动第二大的指针
+                    while(left < right && nums[left] == nums[left-1]){
+                        left++;
                     }
+                    // 移动末尾指针
+                    while(left < right && nums[right] == nums[right+1]){
+                        right--;
+                    }
+                }else if(nums[left]+nums[right]<target){
+                    left++;
+                }else{
+                    right--;
                 }
-            }
-        }
-        System.out.println(results);
-        for(int i=0;i< (results.size()-1);i++){
-            for(int j=i+1;j<results.size();j++){
-                if(results.get(i).containsAll(results.get(j)) && results.get(j).containsAll(results.get(i))){
-                    results.get(j).clear();
-                }
-            }
-        }
-        for(int i=(results.size()-1);i>0;i--){
-            if(results.get(i).isEmpty()){
-                results.remove(i);
             }
         }
         return results;
