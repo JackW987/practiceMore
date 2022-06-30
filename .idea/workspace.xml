@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="&quot;LRU cache simulation&quot;">
+      <change afterPath="$PROJECT_DIR$/java/二叉树的层序遍历_深度方法/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/二叉树的层序遍历/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/二叉树的层序遍历_深度方法/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/二叉树的层序遍历/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/二叉树的层序遍历/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/二叉树的层序遍历_深度方法/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,19 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二叉树的层序遍历.Run" />
-      <module name="practiceMore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="二叉树的层序遍历.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="对称二叉树.Run" />
       <module name="practiceMore" />
@@ -114,6 +105,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LRU缓存.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="二叉树的层序遍历_深度方法.Run" />
+      <module name="practiceMore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="二叉树的层序遍历_深度方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,6 +161,8 @@
       <workItem from="1656334717097" duration="3000" />
       <workItem from="1656385967351" duration="2326000" />
       <workItem from="1656417203201" duration="1292000" />
+      <workItem from="1656418855820" duration="30000" />
+      <workItem from="1656469891821" duration="5038000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;LRU cache simulation&quot;">
       <created>1655780658261</created>

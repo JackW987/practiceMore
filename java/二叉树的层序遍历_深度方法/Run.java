@@ -1,4 +1,4 @@
-package 二叉树的层序遍历;
+package 二叉树的层序遍历_深度方法;
 
 public class Run {
     public static void main(String[] args) {
