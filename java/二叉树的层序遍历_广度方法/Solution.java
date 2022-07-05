@@ -1,29 +1,33 @@
 package 二叉树的层序遍历_广度方法;
 
-import 二叉树的层序遍历_深度方法.TreeNode;
-
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
-public class Solution {
-    private List<List<Integer>> nodeList = new ArrayList<>();
+class Solution {
+    private List<List<Integer>> ret = new ArrayList<>();
     public List<List<Integer>> levelOrder(TreeNode root) {
-        return nodeList;
-    }
-    public void ans(TreeNode nodeLeft,TreeNode nodeRight,int level){
-        if(nodeLeft == null && nodeRight == null){
-            return;
+        if(root==null) {
+            return ret;
         }
-        if(nodeList.size() == level){
-            nodeList.add(new ArrayList<>());
+        List<List<Integer>> list = new ArrayList<>();
+        LinkedList<TreeNode> queue = new LinkedList<TreeNode>();
+        queue.offer(root);
+        while(!queue.isEmpty()){
+            List<Integer> child_list = new ArrayList<>();
+            int size = queue.size();
+            for(int i=0;i<size;i++){
+                TreeNode node = queue.poll();
+                child_list.add(node.val);
+                if(node.left!=null){
+                    queue.offer(node.left);
+                }
+                if(node.right!=null){
+                    queue.offer(node.right);
+                }
+            }
+            ret.add(child_list);
         }
-        if(nodeLeft!=null){
-            nodeList.get(level).add(nodeLeft.val);
-            ans(nodeLeft.left,nodeLeft.right,level+1);
-        }
-        if(nodeRight!=null){
-            nodeList.get(level).add(nodeRight.val);
-            ans(nodeLeft.left,nodeLeft.right,level+1);
-        }
+        return ret;
     }
 }

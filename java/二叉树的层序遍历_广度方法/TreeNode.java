@@ -1,4 +1,4 @@
-package 二叉树的层序遍历_深度方法;
+package 二叉树的层序遍历_广度方法;
 
 public class TreeNode {
     public int val;

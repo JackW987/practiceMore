@@ -1,22 +1,29 @@
 package 二叉树的层序遍历_深度方法;
+
+import 二叉树的层序遍历_广度方法.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+public class Solution {
     private List<List<Integer>> nodeList = new ArrayList<>();
     public List<List<Integer>> levelOrder(TreeNode root) {
-        ans(root,0);
-        return null;
+        return nodeList;
     }
-    public void ans(TreeNode nodeParent,int level){
-        if(nodeList.size()==level){
+    public void ans(TreeNode nodeLeft,TreeNode nodeRight,int level){
+        if(nodeLeft == null && nodeRight == null){
+            return;
+        }
+        if(nodeList.size() == level){
             nodeList.add(new ArrayList<>());
         }
-        if(nodeParent==null){
-            return ;
+        if(nodeLeft!=null){
+            nodeList.get(level).add(nodeLeft.val);
+            ans(nodeLeft.left,nodeLeft.right,level+1);
         }
-        nodeList.get(level).add(nodeParent.val);
-        ans(nodeParent.left,level+1);
-        ans(nodeParent.right,level+1);
+        if(nodeRight!=null){
+            nodeList.get(level).add(nodeRight.val);
+            ans(nodeLeft.left,nodeLeft.right,level+1);
+        }
     }
 }
