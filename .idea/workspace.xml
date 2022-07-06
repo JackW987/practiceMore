@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="&quot;LRU cache simulation&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/二叉树的层序遍历_广度方法/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/二叉树的层序遍历_广度方法/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/二叉树的层序遍历_深度方法/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/二叉树的层序遍历_广度方法/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/二叉树的层序遍历_深度方法/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/二叉树的层序遍历_深度方法/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/二叉树的层序遍历_深度方法/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/二叉树的层序遍历_广度方法/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +164,8 @@
       <workItem from="1656937018840" duration="2749000" />
       <workItem from="1656986520406" duration="2401000" />
       <workItem from="1656989247124" duration="84000" />
+      <workItem from="1657020808204" duration="1699000" />
+      <workItem from="1657108807866" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;LRU cache simulation&quot;">
       <created>1655780658261</created>
