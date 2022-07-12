@@ -55,16 +55,10 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Application.Run (3)">
-    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="三数之和.Run" />
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A" />
       <module name="practiceMore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="三数之和.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LRU缓存.Run" />
+      <option name="MAIN_CLASS_NAME" value="斐波那契数列.Run" />
       <module name="practiceMore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LRU缓存.*" />
+          <option name="PATTERN" value="斐波那契数列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.A" />
         <item itemvalue="Application.Run (3)" />
         <item itemvalue="Application.Run (4)" />
         <item itemvalue="Application.Run (2)" />
-        <item itemvalue="Application.Run (1)" />
-        <item itemvalue="Application.Run" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +175,7 @@
       <workItem from="1657020808204" duration="1699000" />
       <workItem from="1657108807866" duration="86000" />
       <workItem from="1657159259090" duration="4787000" />
+      <workItem from="1657506655925" duration="3931000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;LRU cache simulation&quot;">
       <created>1655780658261</created>
