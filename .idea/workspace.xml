@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="&quot;LRU cache simulation&quot;">
+      <change afterPath="$PROJECT_DIR$/java/旋转数组的最小数字/Erfen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/旋转数组的最小数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/青蛙跳台阶/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,6 +179,9 @@
       <workItem from="1657108807866" duration="86000" />
       <workItem from="1657159259090" duration="4787000" />
       <workItem from="1657506655925" duration="3931000" />
+      <workItem from="1657592198733" duration="2167000" />
+      <workItem from="1657681449764" duration="1352000" />
+      <workItem from="1657713712216" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;LRU cache simulation&quot;">
       <created>1655780658261</created>
