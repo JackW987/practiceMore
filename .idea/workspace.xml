@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="&quot;LRU cache simulation&quot;">
-      <change afterPath="$PROJECT_DIR$/java/旋转数组的最小数字/Erfen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/旋转数组的最小数字/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/青蛙跳台阶/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +55,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
-  <component name="RunManager" selected="Application.Run">
+  <component name="RunManager" selected="Application.Run (1)">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A" />
       <module name="practiceMore" />
@@ -66,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="手撕快速排序.Run" />
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="矩阵中的路径.Run" />
       <module name="practiceMore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="手撕快速排序.*" />
+          <option name="PATTERN" value="矩阵中的路径.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.Run (3)" />
         <item itemvalue="Application.Run (4)" />
-        <item itemvalue="Application.Run (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +179,7 @@
       <workItem from="1657592198733" duration="2167000" />
       <workItem from="1657681449764" duration="1352000" />
       <workItem from="1657713712216" duration="13000" />
+      <workItem from="1657764618189" duration="1388000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;LRU cache simulation&quot;">
       <created>1655780658261</created>
