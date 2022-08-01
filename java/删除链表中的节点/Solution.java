@@ -16,8 +16,8 @@ public class Solution {
         }
         ListNode curNode = head.next;
         ListNode preNode = head;
-        while(curNode!=null){
-            if(curNode.val==val){
+        while(curNode!=null) {
+            if (curNode.val == val) {
                 preNode.next = curNode.next;
                 return head;
             }
