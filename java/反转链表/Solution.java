@@ -1,8 +1,5 @@
 package 反转链表;
 
-import java.util.List;
-
-import java.util.*;
 /*
 public class ListNode {
     int val;
@@ -25,7 +22,7 @@ public class Solution {
 
         return headNew.next;
     }
-    public void tailInsert(ListNode tail,ListNode node){
+    public void tailInsert(ListNode tail, ListNode node){
         ListNode nodeNew = new ListNode(node.val);
         nodeNew.next = tail.next;
         tail.next = nodeNew;
