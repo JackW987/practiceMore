@@ -3,10 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd07507-d5ae-419a-abf3-98c8ba5d347b" name="Changes" comment="&quot;LRU cache simulation&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/java/从尾到头打印链表/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/从尾到头打印链表/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/反转链表/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/反转链表/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/practiceMore/剪绳子/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiceMore/剪绳子/Solution.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/java/删除链表中的节点/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/删除链表中的节点/Solution.java" afterDir="false" />
+>>>>>>> 444f074f12420172b89bac0d406a968396f7c013
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -60,6 +65,22 @@
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
   <component name="RunManager" selected="Application.Solution (1)">
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javaSpace/practiceMore&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Run (4)">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A" />
+      <module name="practiceMore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> 444f074f12420172b89bac0d406a968396f7c013
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="矩阵中的路径.Run" />
       <module name="practiceMore" />
@@ -194,8 +215,13 @@
       <workItem from="1658111630963" duration="3051000" />
       <workItem from="1658206988388" duration="667000" />
       <workItem from="1658286122902" duration="632000" />
+<<<<<<< HEAD
       <workItem from="1658370574997" duration="3512000" />
       <workItem from="1659522174143" duration="758000" />
+=======
+      <workItem from="1659102094516" duration="675000" />
+      <workItem from="1659363462831" duration="65000" />
+>>>>>>> 444f074f12420172b89bac0d406a968396f7c013
     </task>
     <task id="LOCAL-00001" summary="&quot;LRU cache simulation&quot;">
       <created>1655780658261</created>
